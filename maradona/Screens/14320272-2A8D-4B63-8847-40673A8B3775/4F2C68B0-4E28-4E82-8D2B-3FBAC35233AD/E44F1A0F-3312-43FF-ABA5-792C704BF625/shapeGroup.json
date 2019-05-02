@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E759F79F-7065-4618-8178-816A4919ED7D",
+  "do_objectID": "E44F1A0F-3312-43FF-ABA5-792C704BF625",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,30 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 948,
+    "width": 375,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
-  "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "artboard",
-      "id": "14320272-2A8D-4B63-8847-40673A8B3775"
+      "class": "shapePath",
+      "id": "01D4C922-6E84-408A-9C70-67FE1179AA1B"
     }
   ],
-  "name": "Screens",
-  "nameIsFixed": true,
+  "name": "Duplicate control",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -58,14 +51,12 @@
     "windingRule": 1
   },
   "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
+    "com.invisionlabs.duplicate": {
+      "args": {
+        "verticalCount": 5,
+        "verticalGutter": 16
+      }
     }
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "windingRule": 1
 }

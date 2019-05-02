@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E759F79F-7065-4618-8178-816A4919ED7D",
+  "do_objectID": "7F8245F9-B1E3-4026-82A6-F02E273753BB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,40 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 24,
+    "width": 24,
     "x": 0,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "icon/communication/comment_24px",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "14320272-2A8D-4B63-8847-40673A8B3775"
+      "_class": "overrideValue",
+      "do_objectID": "C1ECA718-B113-42E1-B317-9D1FC2A5A2D0",
+      "overrideName": "DDACDC50-BF09-4C59-B173-C4FF0C4FCFCF_symbolID",
+      "value": "0404D8AE-312F-413D-8B0C-45AACFEA53AC"
     }
   ],
-  "name": "Screens",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -57,15 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "AA3C8778-31D8-4A47-90EA-C31DF23CF9C4",
+  "verticalSpacing": 0
 }

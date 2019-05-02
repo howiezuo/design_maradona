@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,8 +47,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "24D82C6E-6E6F-40B7-B79E-447F93BAD25E"
+    },
+    {
+      "class": "group",
+      "id": "4F2C68B0-4E28-4E82-8D2B-3FBAC35233AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A2A5E8D-75EF-4DD1-B14F-6CD3B0972DBC"
+    },
     {
       "class": "symbolInstance",
       "id": "B37F61B7-15FC-4A0F-BB37-85B445E9F3B9"
@@ -62,8 +74,8 @@
       "id": "D248C330-91F2-4626-A225-D1D0EADABBB3"
     }
   ],
-  "name": "iPhone XS",
-  "nameIsFixed": false,
+  "name": "Main",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 812,

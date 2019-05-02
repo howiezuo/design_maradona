@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D248C330-91F2-4626-A225-D1D0EADABBB3",
+  "do_objectID": "066A4CCB-6AC4-4C9D-B07B-9D4BF39F3AE4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,20 +15,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "height": 176,
+    "width": 343,
+    "x": 16,
+    "y": 388
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "iPhone X/Status Bars/Status Bar (Black)",
+  "name": "Card",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "65E82A78-ABFA-4E3A-B693-69703CE3BDB7",
+  "symbolID": "EA1A86E5-ED81-4B35-A9B9-000DD5720222",
   "verticalSpacing": 0
 }

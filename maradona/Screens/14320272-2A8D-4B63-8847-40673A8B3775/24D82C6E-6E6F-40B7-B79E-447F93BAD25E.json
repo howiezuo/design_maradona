@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "24D82C6E-6E6F-40B7-B79E-447F93BAD25E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 44
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "App Bar / Top App Bar / Regular / Flat / Surface Color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D7921B62-5698-4F4B-965C-D31952726E1B",
+      "overrideName": "0CE57C07-3191-46C5-B596-9B83F6436AE0_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B421CC3-92F3-4B98-B9F1-CCD06CA60E99",
+      "overrideName": "8383E10F-2872-4A0D-90CD-69A641B98D1E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFDD964B-55C0-4427-B1A3-33B0DC9F13BD",
+      "overrideName": "979E3664-2F8E-4BB2-BA37-ED913FA6D02A/276CD875-082B-4B12-88D9-5D329572C64C_stringValue",
+      "value": "Maradona"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A43D5AEE-3C0B-442F-AAD7-2F7CF145CF50",
+      "overrideName": "979E3664-2F8E-4BB2-BA37-ED913FA6D02A/276CD875-082B-4B12-88D9-5D329572C64C_textStyle",
+      "value": "113587B3-AC58-4622-89E8-7A9FB981A8E0"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C24F2289-2A34-4BAC-83F6-06F3310B82FE",
+  "verticalSpacing": 0
+}
