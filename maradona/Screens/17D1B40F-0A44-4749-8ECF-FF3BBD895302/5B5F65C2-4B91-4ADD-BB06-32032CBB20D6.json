@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4F2C68B0-4E28-4E82-8D2B-3FBAC35233AD",
+  "do_objectID": "5B5F65C2-4B91-4ADD-BB06-32032CBB20D6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1284,
-    "width": 343,
-    "x": 16,
-    "y": 116
+    "height": 812,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "group",
-      "id": "502E4F2B-1AA5-488B-A93A-3F0EED3527E7"
-    }
+  "layerListExpandedType": 1,
+  "name": "iPhone X Frame",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "List",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -50,10 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "symbolID": "4ECB0CC8-3B65-461C-B87B-C6C189A00976",
+  "verticalSpacing": 0
 }

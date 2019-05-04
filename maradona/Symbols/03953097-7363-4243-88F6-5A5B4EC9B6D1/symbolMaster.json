@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 172,
+  "changeIdentifier": 269,
   "clippingMaskMode": 0,
-  "do_objectID": "D9546377-FDA3-46B9-BF0F-4F5046BAD535",
+  "do_objectID": "03953097-7363-4243-88F6-5A5B4EC9B6D1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 375,
-    "x": 77,
-    "y": -16
+    "height": 48,
+    "width": 311,
+    "x": 516,
+    "y": 292
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -54,28 +54,33 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "89F34362-9AB1-4D6D-9BD5-1322DD508915"
+      "id": "7C955BCE-A308-4B9C-9AB5-E7EE4FE62A32"
     },
     {
-      "class": "symbolInstance",
-      "id": "E78BE35A-EE2B-4F14-99A5-6E9CC4049529"
+      "class": "group",
+      "id": "420F81CD-5140-4AA3-96D1-96C5E127002A"
     }
   ],
-  "name": "Bottom App Bar",
+  "name": "Author",
   "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "89F34362-9AB1-4D6D-9BD5-1322DD508915_symbolID"
+      "overrideName": "8A81B5B6-5594-4298-90AB-EC9BEB5CEBB8_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "E78BE35A-EE2B-4F14-99A5-6E9CC4049529_symbolID"
+      "overrideName": "C2AF2CE4-CA1C-4D07-97A6-01D4AA174E6B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7C955BCE-A308-4B9C-9AB5-E7EE4FE62A32_symbolID"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -87,7 +92,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F7233CDE-84A8-4338-8130-D4A9A07622E0",
+  "symbolID": "301A5F46-91F8-4968-8047-5381914D2FDD",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

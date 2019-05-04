@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 172,
+  "changeIdentifier": 15,
   "clippingMaskMode": 0,
-  "do_objectID": "D9546377-FDA3-46B9-BF0F-4F5046BAD535",
+  "do_objectID": "6AF4DACF-5061-4421-90D0-14BEB1A21B02",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 375,
-    "x": 77,
+    "height": 24,
+    "width": 118,
+    "x": 1181,
     "y": -16
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,26 +53,22 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "89F34362-9AB1-4D6D-9BD5-1322DD508915"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E78BE35A-EE2B-4F14-99A5-6E9CC4049529"
+      "class": "text",
+      "id": "588B73A7-ABDB-4608-B6C3-D607A7B44F9D"
     }
   ],
-  "name": "Bottom App Bar",
+  "name": "Name",
   "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "89F34362-9AB1-4D6D-9BD5-1322DD508915_symbolID"
+      "overrideName": "588B73A7-ABDB-4608-B6C3-D607A7B44F9D_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "E78BE35A-EE2B-4F14-99A5-6E9CC4049529_symbolID"
+      "overrideName": "588B73A7-ABDB-4608-B6C3-D607A7B44F9D_stringValue"
     }
   ],
   "resizesContent": false,
@@ -87,7 +83,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F7233CDE-84A8-4338-8130-D4A9A07622E0",
+  "symbolID": "A60BEB24-3392-4E53-B622-F3B8CF63AF22",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

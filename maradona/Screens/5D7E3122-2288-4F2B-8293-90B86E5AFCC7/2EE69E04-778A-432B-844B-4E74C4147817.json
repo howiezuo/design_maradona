@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4F2C68B0-4E28-4E82-8D2B-3FBAC35233AD",
+  "do_objectID": "2EE69E04-778A-432B-844B-4E74C4147817",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1284,
-    "width": 343,
-    "x": 16,
-    "y": 116
+    "height": 258,
+    "width": 375,
+    "x": 0,
+    "y": 520
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "group",
-      "id": "502E4F2B-1AA5-488B-A93A-3F0EED3527E7"
-    }
+  "layerListExpandedType": 1,
+  "name": "Keyboards/Keyboard + Suggestions",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "List",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -50,10 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "symbolID": "C4E5C1B6-95A7-4C71-89C9-2E9C0C67B864",
+  "verticalSpacing": 0
 }

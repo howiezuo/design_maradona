@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4F2C68B0-4E28-4E82-8D2B-3FBAC35233AD",
+  "do_objectID": "04667E1D-95A0-4431-8013-F03F1AD33D7B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1284,
-    "width": 343,
-    "x": 16,
-    "y": 116
+    "height": 236,
+    "width": 309,
+    "x": 1,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,12 +33,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "56E4CF4A-3FEA-4EDB-9610-1C9400D87CCD"
+    },
+    {
       "class": "group",
-      "id": "502E4F2B-1AA5-488B-A93A-3F0EED3527E7"
+      "id": "E2DD09AF-9ADA-4DB0-8C9E-E8D75607D3E2"
     }
   ],
-  "name": "List",
-  "nameIsFixed": true,
+  "name": "Padding Group 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -53,6 +57,15 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "padding": {
+          "bottom": 32,
+          "left": 32,
+          "modelID": "viewPadding_9e2988ff-872d-477c-b563-1a8ad8abf616",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0,
+          "right": 32,
+          "top": 32
+        }
       }
     }
   }

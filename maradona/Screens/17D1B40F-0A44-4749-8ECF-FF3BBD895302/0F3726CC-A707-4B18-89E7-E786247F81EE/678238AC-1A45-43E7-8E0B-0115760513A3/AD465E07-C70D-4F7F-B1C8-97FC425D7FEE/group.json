@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4F2C68B0-4E28-4E82-8D2B-3FBAC35233AD",
+  "do_objectID": "AD465E07-C70D-4F7F-B1C8-97FC425D7FEE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1284,
-    "width": 343,
-    "x": 16,
-    "y": 116
+    "height": 16,
+    "width": 195,
+    "x": 114,
+    "y": 192
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,14 +30,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "502E4F2B-1AA5-488B-A93A-3F0EED3527E7"
+      "class": "symbolInstance",
+      "id": "C81D8BB0-C430-41D7-A292-5987F20AD8E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B3522A7-5A39-4A2F-A786-0EC9858B6CD9"
     }
   ],
-  "name": "List",
+  "name": "Footer",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -49,11 +53,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }

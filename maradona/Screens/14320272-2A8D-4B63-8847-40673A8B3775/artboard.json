@@ -31,12 +31,14 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      359,
+      16
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -51,7 +53,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "24D82C6E-6E6F-40B7-B79E-447F93BAD25E"
+      "id": "A404E3DB-342B-40A1-A5B6-4955BE36EF9D"
     },
     {
       "class": "group",
@@ -63,17 +65,28 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B37F61B7-15FC-4A0F-BB37-85B445E9F3B9"
+      "id": "8913ED10-C590-447D-A2AA-80722CFFBDB6"
     },
     {
-      "class": "symbolInstance",
-      "id": "8D6CF899-AFD2-405B-BFFF-928D45AB7507"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D248C330-91F2-4626-A225-D1D0EADABBB3"
+      "class": "group",
+      "id": "67CF7FE8-0290-4DE3-B244-FFB72BB508B5"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 8.652173913043478,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 7,
+    "isEnabled": false,
+    "numberOfColumns": 23,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
   "name": "Main",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -99,6 +112,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      44
     ]
   }
 }

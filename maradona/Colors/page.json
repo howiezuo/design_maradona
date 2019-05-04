@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4F2C68B0-4E28-4E82-8D2B-3FBAC35233AD",
+  "do_objectID": "401187F7-96CE-4DB0-9AFC-7BCDD3EF728A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,29 +15,44 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1284,
-    "width": 343,
-    "x": 16,
-    "y": 116
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -605,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "502E4F2B-1AA5-488B-A93A-3F0EED3527E7"
+      "class": "artboard",
+      "id": "BC9DB7B1-4D81-4C00-95FF-D9C1772541D2"
+    },
+    {
+      "class": "artboard",
+      "id": "50EB9CCA-AD0F-47DE-86D9-ECE0E7F9C0AC"
+    },
+    {
+      "class": "artboard",
+      "id": "0E58DE31-044B-47D0-819F-605445458C50"
     }
   ],
-  "name": "List",
+  "name": "Colors",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,10 +65,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -475,
+    "guides": [
+    ]
   }
 }

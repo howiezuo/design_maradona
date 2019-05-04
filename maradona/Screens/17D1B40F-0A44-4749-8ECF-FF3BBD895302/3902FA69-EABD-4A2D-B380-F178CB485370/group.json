@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4F2C68B0-4E28-4E82-8D2B-3FBAC35233AD",
+  "do_objectID": "3902FA69-EABD-4A2D-B380-F178CB485370",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1284,
-    "width": 343,
-    "x": 16,
-    "y": 116
+    "height": 480,
+    "width": 375,
+    "x": 0,
+    "y": 356
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,11 +33,23 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "502E4F2B-1AA5-488B-A93A-3F0EED3527E7"
+      "class": "rectangle",
+      "id": "62CDA0A3-E98B-4ECB-9C9A-A0EBFE3AF31F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91962602-ADC9-403A-A1FB-5CE472C15FE3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D02513FD-3B59-4DE1-B820-9A542B933FAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3236DF6-96ED-4169-B623-2828B20A8C21"
     }
   ],
-  "name": "List",
+  "name": "Comments",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -49,11 +61,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }

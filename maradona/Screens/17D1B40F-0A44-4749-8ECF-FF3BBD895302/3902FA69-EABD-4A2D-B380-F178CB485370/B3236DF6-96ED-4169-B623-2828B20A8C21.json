@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3236DF6-96ED-4169-B623-2828B20A8C21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6CE84E4-11F2-450D-9C78-10607E5910D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "182F0184-E1DD-44FD-B242-DBD4A3B54933",
+    "height": 160,
+    "width": 375,
+    "x": 0,
+    "y": 320
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Comment",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01C0D2BC-0CD6-4738-9331-DFD92ED9E94A",
+      "overrideName": "DE534EF9-7C33-4509-B334-2A7F8272E6EB/8A81B5B6-5594-4298-90AB-EC9BEB5CEBB8/D6F41262-A2D3-49C0-BB18-2E0E7DEC0CC7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b6c9e78cfdd06885d17a86f9ab990da9609473ff.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "60662B3F-0086-46B4-A6F8-84E12E48E713",
+      "overrideName": "DE534EF9-7C33-4509-B334-2A7F8272E6EB/C2AF2CE4-CA1C-4D07-97A6-01D4AA174E6B/588B73A7-ABDB-4608-B6C3-D607A7B44F9D_stringValue",
+      "value": "Yasaman Foroutan"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "754E1D89-39F4-4E41-949D-4CE2C5BF988C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1E432890-7802-4A26-BA72-956FC3B03558",
+  "verticalSpacing": 0
+}

@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4F2C68B0-4E28-4E82-8D2B-3FBAC35233AD",
+  "do_objectID": "420F81CD-5140-4AA3-96D1-96C5E127002A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1284,
-    "width": 343,
-    "x": 16,
-    "y": 116
+    "height": 48,
+    "width": 174,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,13 +33,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "502E4F2B-1AA5-488B-A93A-3F0EED3527E7"
+      "class": "symbolInstance",
+      "id": "C2AF2CE4-CA1C-4D07-97A6-01D4AA174E6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A81B5B6-5594-4298-90AB-EC9BEB5CEBB8"
     }
   ],
-  "name": "List",
+  "name": "Avator and Name",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 19,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -53,6 +57,11 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 8,
+        "stackType": 1
       }
     }
   }
