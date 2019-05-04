@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CC3E2F0A-1247-4D00-8396-2E8626B14DD8",
+  "do_objectID": "B6E9C632-1C73-4CA0-A47F-F0F80DB728B1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 244,
-    "width": 343,
+    "height": 56,
+    "width": 375,
     "x": 0,
-    "y": 0
+    "y": 44
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Card",
+  "name": "Action Bar / Main",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EA1A86E5-ED81-4B35-A9B9-000DD5720222",
+  "symbolID": "C9A49FAA-E636-4A91-AE55-E2A0A3F1B004",
   "verticalSpacing": 0
 }

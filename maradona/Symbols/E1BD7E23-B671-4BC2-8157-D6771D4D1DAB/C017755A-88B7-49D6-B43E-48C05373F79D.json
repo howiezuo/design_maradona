@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 244,
+    "height": 236,
     "width": 311,
     "x": 0,
     "y": 0
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "name": "Cards / Elements / Surface / Filled / Resting / 1dp",
   "nameIsFixed": false,
   "overrideValues": [
@@ -48,45 +48,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "automatic": 1,
-          "bottom": {
-            "constant": 0,
-            "enabled": 1,
-            "modelID": "constraint_d5e1c3b0-c2dd-43ab-b0ef-ea05ebbbae1e",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 0
-          },
-          "left": {
-            "constant": 0,
-            "enabled": 1,
-            "modelID": "constraint_7f1f24f4-df2d-4bac-9189-e54b15af26b2",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 0
-          },
-          "modelID": "viewConstraints_8358ae4d-a221-4b8c-8a53-4ee6233965c1",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0,
-          "right": {
-            "constant": 0,
-            "enabled": 1,
-            "modelID": "constraint_6c273a84-682a-42d1-8164-b4aa29d38695",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 0
-          },
-          "scaleFactor": 1,
-          "top": {
-            "constant": 0,
-            "enabled": 1,
-            "modelID": "constraint_5b14b504-27c1-4f2c-b5fa-f9fcd8322d95",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 0
-          }
-        }
       }
     }
   },

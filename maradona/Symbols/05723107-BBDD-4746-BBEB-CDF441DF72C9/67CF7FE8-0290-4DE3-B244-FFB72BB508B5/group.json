@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A215A1F6-BAC5-4D6F-AAEA-0BC43005CADE",
+  "do_objectID": "67CF7FE8-0290-4DE3-B244-FFB72BB508B5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 244,
-    "width": 343,
+    "height": 56,
+    "width": 375,
     "x": 0,
-    "y": 260
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Card",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8BFDA1F6-B8CE-4EAA-93AA-CCAF34413F08"
+    },
+    {
+      "class": "text",
+      "id": "1E8D41A3-EB55-40DE-B792-F84971C8A10E"
+    }
   ],
-  "resizingConstraint": 63,
+  "name": "Action Bar / Main",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -44,6 +54,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EA1A86E5-ED81-4B35-A9B9-000DD5720222",
-  "verticalSpacing": 0
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
 }

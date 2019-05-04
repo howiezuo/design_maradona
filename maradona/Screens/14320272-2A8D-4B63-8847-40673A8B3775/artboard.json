@@ -37,8 +37,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      359,
-      16
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -56,8 +54,8 @@
       "id": "A404E3DB-342B-40A1-A5B6-4955BE36EF9D"
     },
     {
-      "class": "group",
-      "id": "4F2C68B0-4E28-4E82-8D2B-3FBAC35233AD"
+      "class": "symbolInstance",
+      "id": "B10E1E8E-C365-40E7-B6C8-141C9A411D0A"
     },
     {
       "class": "symbolInstance",
@@ -65,11 +63,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8913ED10-C590-447D-A2AA-80722CFFBDB6"
+      "id": "06C2B02D-2ACA-4701-AEFC-AE7A16FE0BF1"
     },
     {
-      "class": "group",
-      "id": "67CF7FE8-0290-4DE3-B244-FFB72BB508B5"
+      "class": "symbolInstance",
+      "id": "8913ED10-C590-447D-A2AA-80722CFFBDB6"
     }
   ],
   "layout": {
@@ -96,7 +94,7 @@
     "offersLandscapeVariant": 1,
     "width": 375
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -112,7 +110,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      44
     ]
   }
 }

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "066A4CCB-6AC4-4C9D-B07B-9D4BF39F3AE4",
+  "do_objectID": "D3F12C95-C1CE-479D-9418-F804AB7E7128",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,20 +15,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 244,
-    "width": 343,
+    "height": 812,
+    "width": 375,
     "x": 0,
-    "y": 520
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Card",
+  "name": "iPhone X Frame",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EA1A86E5-ED81-4B35-A9B9-000DD5720222",
+  "symbolID": "4ECB0CC8-3B65-461C-B87B-C6C189A00976",
   "verticalSpacing": 0
 }
