@@ -9,7 +9,7 @@
     "red": 0.1294117647058823
   },
   "booleanOperation": -1,
-  "changeIdentifier": 22642,
+  "changeIdentifier": 23110,
   "clippingMaskMode": 0,
   "do_objectID": "E1BD7E23-B671-4BC2-8157-D6771D4D1DAB",
   "exportOptions": {
@@ -24,8 +24,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 236,
-    "width": 311,
+    "height": 284,
+    "width": 343,
     "x": 516,
     "y": -16
   },
@@ -57,8 +57,16 @@
       "id": "C017755A-88B7-49D6-B43E-48C05373F79D"
     },
     {
-      "class": "group",
-      "id": "04667E1D-95A0-4431-8013-F03F1AD33D7B"
+      "class": "symbolInstance",
+      "id": "90B94897-FD68-45EB-A489-453200E42A62"
+    },
+    {
+      "class": "text",
+      "id": "F4527AC2-123E-403D-A700-BA83F8FF9F02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "744B4C73-D97F-41C2-8F49-9AB2D58511E9"
     }
   ],
   "name": "Card",
@@ -68,6 +76,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "C017755A-88B7-49D6-B43E-48C05373F79D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "744B4C73-D97F-41C2-8F49-9AB2D58511E9_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -85,7 +98,7 @@
       "overrideName": "F4527AC2-123E-403D-A700-BA83F8FF9F02_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

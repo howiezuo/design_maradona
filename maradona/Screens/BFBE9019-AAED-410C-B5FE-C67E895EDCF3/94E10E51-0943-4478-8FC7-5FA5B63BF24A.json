@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "90B94897-FD68-45EB-A489-453200E42A62",
+  "do_objectID": "94E10E51-0943-4478-8FC7-5FA5B63BF24A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 42,
-    "x": 203,
-    "y": 156
+    "height": 884,
+    "width": 327,
+    "x": 16,
+    "y": 116
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icon with Text",
+  "name": "List / Main",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C8934813-4948-4CC8-81F5-D363A0AD12E0",
+  "symbolID": "0803EFEA-A263-41D7-8AB8-E22B090FC150",
   "verticalSpacing": 0
 }

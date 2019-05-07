@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "04667E1D-95A0-4431-8013-F03F1AD33D7B",
+  "do_objectID": "502E4F2B-1AA5-488B-A93A-3F0EED3527E7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 236,
-    "width": 309,
-    "x": 1,
+    "height": 884,
+    "width": 343,
+    "x": 0,
     "y": 0
   },
   "groupLayout": {
@@ -30,20 +30,24 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "56E4CF4A-3FEA-4EDB-9610-1C9400D87CCD"
+      "class": "symbolInstance",
+      "id": "CC3E2F0A-1247-4D00-8396-2E8626B14DD8"
     },
     {
-      "class": "group",
-      "id": "E2DD09AF-9ADA-4DB0-8C9E-E8D75607D3E2"
+      "class": "symbolInstance",
+      "id": "A215A1F6-BAC5-4D6F-AAEA-0BC43005CADE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "066A4CCB-6AC4-4C9D-B07B-9D4BF39F3AE4"
     }
   ],
-  "name": "Padding Group 2",
+  "name": "Stacked Group",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -57,16 +61,13 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "padding": {
-          "bottom": 32,
-          "left": 32,
-          "modelID": "viewPadding_9e2988ff-872d-477c-b563-1a8ad8abf616",
-          "model_class": "ADModelViewPadding",
-          "model_version": 0,
-          "right": 32,
-          "top": 32
-        }
-      }
+        "align": 0,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 16,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
     }
   }
 }

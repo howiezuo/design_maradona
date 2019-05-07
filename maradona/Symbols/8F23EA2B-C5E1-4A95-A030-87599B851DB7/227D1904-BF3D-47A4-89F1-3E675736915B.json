@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CC3E2F0A-1247-4D00-8396-2E8626B14DD8",
+  "do_objectID": "227D1904-BF3D-47A4-89F1-3E675736915B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 236,
-    "width": 343,
-    "x": 0,
-    "y": 0
+    "height": 24,
+    "width": 24,
+    "x": 16,
+    "y": 8
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,11 +28,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Card",
+  "name": "icon/action/exit_to_app_24px",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B087913-A91E-4384-8399-1FF6B17AAA67",
+      "overrideName": "CAF0DF84-A280-4725-97C0-8D9874EE1360_symbolID",
+      "value": "00BC320A-013A-49C5-BC89-54D5BA68771D"
+    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -44,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EA1A86E5-ED81-4B35-A9B9-000DD5720222",
+  "symbolID": "1FB5DA9D-E224-4EFE-AD59-7216DEA11DFA",
   "verticalSpacing": 0
 }

@@ -31,6 +31,12 @@
   "name": "iPhone X Frame",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1A4793B-E9DE-4CF1-ABAC-8394B77C4CB1",
+      "overrideName": "371D67FA-F37A-4CA5-B6FB-0394B6123DF7_layerStyle",
+      "value": "2F31BB58-57A4-4F77-B7C6-1A4BD43A6662"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

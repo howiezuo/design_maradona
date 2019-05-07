@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "83904A7A-E09E-4E96-8587-D44F75BC7C57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 44
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "App Bar / Top App Bar / Regular / Flat / Primary Color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "80E13351-30FF-4277-8A8D-EEA4B209A636/18322187-BEDF-4392-924D-8186A28D0615_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "80E13351-30FF-4277-8A8D-EEA4B209A636/CDF0FAE0-F5DC-4458-8ADC-736BB44A6042_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "80E13351-30FF-4277-8A8D-EEA4B209A636/72E24D9B-847B-465B-B9BF-43C649F45723_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "80E13351-30FF-4277-8A8D-EEA4B209A636/C6D66D92-9DF4-4C93-A1B2-F20598F13B0E_symbolID",
+      "value": "88293795-9282-4060-9B9B-06ACBD55A2AA"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "80E13351-30FF-4277-8A8D-EEA4B209A636/C6D66D92-9DF4-4C93-A1B2-F20598F13B0E/327A8E5E-36BB-4517-AE27-4D1C4FD170F6_symbolID",
+      "value": "FF675E16-86D4-4534-9600-781C8D75A694"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A1EB7F9-DFAD-4C37-90FB-D7B0694602EF/5CFFEB67-F6EA-4F38-B0A2-5CAF91996170_stringValue",
+      "value": "Setting"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1AB6554-EB69-46F3-A1C2-530D0EA75099",
+  "verticalSpacing": 0
+}

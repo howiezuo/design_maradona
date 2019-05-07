@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E2DD09AF-9ADA-4DB0-8C9E-E8D75607D3E2",
+  "do_objectID": "78CA42A2-B28E-4E9E-A25B-6BDF74AC773C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 172,
-    "width": 245,
-    "x": 32,
-    "y": 32
+    "height": 812,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "90B94897-FD68-45EB-A489-453200E42A62"
-    },
-    {
-      "class": "text",
-      "id": "F4527AC2-123E-403D-A700-BA83F8FF9F02"
-    }
-  ],
-  "name": "Stacked Group",
+  "name": "Background / Screen",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -54,16 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "align": 3,
-        "isCollapsing": 1,
-        "resizesContainer": 1,
-        "spacing": 16,
-        "stackType": 0
-      },
-      "kViewTypeKey": "ADModelStackView"
-    }
-  }
+  "symbolID": "A11B6FCB-85B9-41B5-A2B9-958204F4B3D6",
+  "verticalSpacing": 0
 }

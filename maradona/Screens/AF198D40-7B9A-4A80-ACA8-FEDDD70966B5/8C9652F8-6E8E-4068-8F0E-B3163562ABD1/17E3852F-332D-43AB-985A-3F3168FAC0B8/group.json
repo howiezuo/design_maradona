@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 87,
-    "x": 32,
+    "height": 40,
+    "width": 375,
+    "x": 0,
     "y": 34
   },
   "groupLayout": {
@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "2019E107-B7CC-4FAA-8E07-2D9E600C0927"
+    },
     {
       "class": "text",
       "id": "86EB0DEC-E504-46EE-A119-8F0AD05640F2"
